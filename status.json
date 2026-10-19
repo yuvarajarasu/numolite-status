@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "project": "Numolite",
-  "exported_at": "2026-10-19T15:33:13.077508Z",
-  "observed_at": "2026-10-19T15:33:13.073083Z",
+  "exported_at": "2026-10-19T15:51:25.079855Z",
+  "observed_at": "2026-10-19T15:51:25.075108Z",
   "source_available": true,
   "snapshot_interval_seconds": 900,
   "stale_after_seconds": 1800,
   "progress": {
-    "completed": 61,
-    "total": 68,
-    "percent": 89.7,
+    "completed": 62,
+    "total": 69,
+    "percent": 89.9,
     "scope": "tracked_development_leaf_tasks"
   },
   "milestones": [
@@ -36,27 +36,27 @@
     {
       "id": "context",
       "title": "Organization context integration",
-      "status": "in_progress"
+      "status": "reported_complete"
     }
   ],
   "agents": {
-    "observed_at": "2026-10-19T15:18:35.666469Z",
+    "observed_at": "2026-10-19T15:33:42.574206Z",
     "recent_at_export": false,
     "counts": {
-      "running": 4,
+      "running": 5,
       "waiting": 0,
-      "finished": 2,
+      "finished": 1,
       "unknown": 0
     },
     "scope": "workers_excluding_coordinator",
     "stale_after_seconds": 120
   },
   "memory": {
-    "sampled_at": "2026-10-19T15:33:13.073119Z",
+    "sampled_at": "2026-10-19T15:51:25.075129Z",
     "host": {
-      "used_gb": 5.665,
+      "used_gb": 5.775,
       "total_gb": 10.451,
-      "used_percent": 54.2
+      "used_percent": 55.3
     },
     "cgroup": null,
     "scope": "dashboard_server_host",
