@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "project": "Numolite",
-  "exported_at": "2026-10-19T15:51:25.079855Z",
-  "observed_at": "2026-10-19T15:51:25.075108Z",
+  "exported_at": "2026-10-19T16:06:13.107685Z",
+  "observed_at": "2026-10-19T16:06:13.104546Z",
   "source_available": true,
   "snapshot_interval_seconds": 900,
   "stale_after_seconds": 1800,
@@ -15,7 +15,7 @@
   "milestones": [
     {
       "id": "foundation",
-      "title": "Accounting foundation",
+      "title": "Accounting foundation test slice",
       "status": "reported_complete"
     },
     {
@@ -35,28 +35,28 @@
     },
     {
       "id": "context",
-      "title": "Organization context integration",
+      "title": "Organization context prototype",
       "status": "reported_complete"
     }
   ],
   "agents": {
-    "observed_at": "2026-10-19T15:33:42.574206Z",
+    "observed_at": "2026-10-19T15:59:56.929187Z",
     "recent_at_export": false,
     "counts": {
-      "running": 5,
+      "running": 2,
       "waiting": 0,
-      "finished": 1,
+      "finished": 4,
       "unknown": 0
     },
     "scope": "workers_excluding_coordinator",
     "stale_after_seconds": 120
   },
   "memory": {
-    "sampled_at": "2026-10-19T15:51:25.075129Z",
+    "sampled_at": "2026-10-19T16:06:13.104612Z",
     "host": {
-      "used_gb": 5.775,
+      "used_gb": 6.22,
       "total_gb": 10.451,
-      "used_percent": 55.3
+      "used_percent": 59.5
     },
     "cgroup": null,
     "scope": "dashboard_server_host",
