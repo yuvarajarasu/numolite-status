@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "project": "Numolite",
+  "exported_at": "2026-10-19T15:33:13.077508Z",
+  "observed_at": "2026-10-19T15:33:13.073083Z",
+  "source_available": true,
+  "snapshot_interval_seconds": 900,
+  "stale_after_seconds": 1800,
+  "progress": {
+    "completed": 61,
+    "total": 68,
+    "percent": 89.7,
+    "scope": "tracked_development_leaf_tasks"
+  },
+  "milestones": [
+    {
+      "id": "foundation",
+      "title": "Accounting foundation",
+      "status": "reported_complete"
+    },
+    {
+      "id": "journal-workflow",
+      "title": "Journal review and correction",
+      "status": "reported_complete"
+    },
+    {
+      "id": "reporting",
+      "title": "Management reporting",
+      "status": "in_progress"
+    },
+    {
+      "id": "workspace",
+      "title": "Accounting workspace",
+      "status": "reported_complete"
+    },
+    {
+      "id": "context",
+      "title": "Organization context integration",
+      "status": "in_progress"
+    }
+  ],
+  "agents": {
+    "observed_at": "2026-10-19T15:18:35.666469Z",
+    "recent_at_export": false,
+    "counts": {
+      "running": 4,
+      "waiting": 0,
+      "finished": 2,
+      "unknown": 0
+    },
+    "scope": "workers_excluding_coordinator",
+    "stale_after_seconds": 120
+  },
+  "memory": {
+    "sampled_at": "2026-10-19T15:33:13.073119Z",
+    "host": {
+      "used_gb": 5.665,
+      "total_gb": 10.451,
+      "used_percent": 54.2
+    },
+    "cgroup": null,
+    "scope": "dashboard_server_host",
+    "units": "decimal_gb"
+  }
+}
