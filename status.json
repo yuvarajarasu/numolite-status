@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "project": "Numolite",
-  "exported_at": "2026-10-19T21:21:20.444490Z",
-  "observed_at": "2026-10-19T21:21:20.441451Z",
+  "exported_at": "2026-10-19T21:36:32.433131Z",
+  "observed_at": "2026-10-19T21:36:32.427845Z",
   "source_available": true,
   "snapshot_interval_seconds": 900,
   "stale_after_seconds": 1800,
@@ -52,9 +52,9 @@
     "stale_after_seconds": 1800
   },
   "memory": {
-    "sampled_at": "2026-10-19T21:21:20.441473Z",
+    "sampled_at": "2026-10-19T21:36:32.427869Z",
     "host": {
-      "used_gb": 5.537,
+      "used_gb": 5.539,
       "total_gb": 10.451,
       "used_percent": 53.0
     },
