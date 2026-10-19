@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "project": "Numolite",
-  "exported_at": "2026-10-19T17:20:20.448149Z",
-  "observed_at": "2026-10-19T17:20:20.437384Z",
+  "exported_at": "2026-10-19T17:35:44.454363Z",
+  "observed_at": "2026-10-19T17:35:44.450151Z",
   "source_available": true,
   "snapshot_interval_seconds": 900,
   "stale_after_seconds": 1800,
@@ -52,11 +52,11 @@
     "stale_after_seconds": 1800
   },
   "memory": {
-    "sampled_at": "2026-10-19T17:20:20.437408Z",
+    "sampled_at": "2026-10-19T17:35:44.450177Z",
     "host": {
-      "used_gb": 6.339,
+      "used_gb": 5.533,
       "total_gb": 10.451,
-      "used_percent": 60.6
+      "used_percent": 52.9
     },
     "cgroup": null,
     "scope": "dashboard_server_host",
@@ -17683,7 +17683,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T09:19:37.958446Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17701,7 +17701,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T09:07:07.411488Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17719,7 +17719,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T09:17:20.946244Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17737,7 +17737,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T10:11:29Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17755,7 +17755,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:23:01Z",
         "actual_end": "2026-10-19T10:19:22.325007Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17773,7 +17773,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:21:01Z",
         "actual_end": "2026-10-19T10:31:55.174404Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17791,7 +17791,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:34:32Z",
         "actual_end": "2026-10-19T10:43:54.639865Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17809,7 +17809,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:44:16Z",
         "actual_end": "2026-10-19T10:59:02.253218Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17827,7 +17827,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:59:02.253218Z",
         "actual_end": "2026-10-19T11:41:54.653611Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17845,7 +17845,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T11:30:43.457390Z",
         "actual_end": "2026-10-19T11:41:54.653611Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17863,7 +17863,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T11:45:26.532739Z",
         "actual_end": "2026-10-19T12:23:54.311340Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17881,7 +17881,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:29:56.369438Z",
         "actual_end": "2026-10-19T12:33:23.417466Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17899,7 +17899,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:33:23.417466Z",
         "actual_end": "2026-10-19T12:41:42.782306Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17917,7 +17917,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:41:42.782306Z",
         "actual_end": "2026-10-19T12:56:43Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17935,7 +17935,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:56:43Z",
         "actual_end": "2026-10-19T13:46:28.369143Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17953,7 +17953,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T13:31:39Z",
         "actual_end": "2026-10-19T14:22:00.556267Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17971,7 +17971,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T14:29:23Z",
         "actual_end": "2026-10-19T15:49:33.508073Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -17989,7 +17989,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T15:46:41Z",
         "actual_end": "2026-10-19T16:55:09.828783Z",
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       },
       {
@@ -18367,7 +18367,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T16:59:03.803041Z",
         "actual_end": null,
-        "observed_at": "2026-10-19T17:17:59.257320Z",
+        "observed_at": "2026-10-19T17:20:24.197828Z",
         "blocker": "none_reported"
       }
     ],
