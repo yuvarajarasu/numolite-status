@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "project": "Numolite",
-  "exported_at": "2026-10-20T01:21:07.743931Z",
-  "observed_at": "2026-10-20T01:21:07.739322Z",
+  "exported_at": "2026-10-20T01:37:12.503500Z",
+  "observed_at": "2026-10-20T01:37:12.499246Z",
   "source_available": true,
   "snapshot_interval_seconds": 900,
   "stale_after_seconds": 1800,
@@ -67,51 +67,89 @@
     "stale_after_seconds": 1800
   },
   "memory": {
-    "sampled_at": "2026-10-20T01:21:07.739342Z",
+    "sampled_at": "2026-10-20T01:37:12.499313Z",
     "host": {
-      "used_gb": 5.97,
+      "used_gb": 6.037,
       "total_gb": 10.451,
-      "used_percent": 57.1
+      "used_percent": 57.8
     },
     "cgroup": null,
     "scope": "dashboard_server_host",
     "units": "decimal_gb"
   },
   "familiarity_pass": {
-    "observed_at": "2026-10-20T01:12:13Z",
-    "phase": "research_and_inventory",
+    "observed_at": "2026-10-20T01:31:00Z",
+    "phase": "wave1_implementation",
     "prior_work_status": "paused",
     "items": [
       {
         "id": "research",
         "title": "Source research",
-        "status": "in_progress"
+        "status": "done"
       },
       {
         "id": "inventory",
         "title": "Existing UI inventory",
-        "status": "in_progress"
+        "status": "done"
       },
       {
         "id": "gap_plan",
-        "title": "Feature gap plan",
-        "status": "planned"
+        "title": "Feature gap plan review",
+        "status": "in_progress"
       },
       {
         "id": "implementation",
         "title": "Prioritized implementation",
-        "status": "planned"
+        "status": "in_progress"
       },
       {
         "id": "acceptance",
         "title": "Acceptance checks",
-        "status": "planned"
+        "status": "in_progress"
+      }
+    ],
+    "features": [
+      {
+        "id": "w1_labels",
+        "title": "W1.1 Familiar labels and action hierarchy",
+        "description": "Clarify existing register titles, primary actions and page-only find; preserve supported routes and capability guards.",
+        "status": "implementation_checkpoint"
+      },
+      {
+        "id": "w1_forms",
+        "title": "W1.2 Compact master and journal forms",
+        "description": "Align existing sheet headers, context, fields, lines and footer actions; preserve draft and imbalance policies.",
+        "status": "implementation_checkpoint"
+      },
+      {
+        "id": "w1_lifecycle",
+        "title": "W1.3 Lifecycle clarity",
+        "description": "Distinguish draft, approval, posting, reversal and period locking; retain revision and recovery safeguards.",
+        "status": "implementation_checkpoint"
+      },
+      {
+        "id": "w1_reports",
+        "title": "W1.4 Reports and return path",
+        "description": "Clarify report cutoff, snapshot, account drilldown and source journal; retain supported query and focus state.",
+        "status": "implementation_checkpoint"
+      },
+      {
+        "id": "w1_sales",
+        "title": "W1.5 Service-sales draft composition",
+        "description": "Improve the existing party, date, line and exact-total layout with a clear draft-only boundary.",
+        "status": "implementation_checkpoint"
+      },
+      {
+        "id": "w1_acceptance",
+        "title": "W1.6 Keyboard and layout acceptance",
+        "description": "Verify keyboard focus and guarded dismissal at desktop, tablet and 390 CSS-pixel widths.",
+        "status": "in_progress"
       }
     ],
     "title": "Usability familiarity pass",
     "scope": "Review familiar Zoho Books and TallyPrime workflows, then plan and implement verified feature gaps.",
     "pause_note": "HALO navigation-guard and real-provider integration work is paused safely for this priority; unfinished work remains unfinished.",
-    "plan_note": "Feature-level tasks will be added only after the reviewed gap plan. No completion dates are inferred."
+    "plan_note": "Wave 1 covers bounded improvements to existing screens. Implementation checkpoints are awaiting independent and responsive browser acceptance; later domain workflows and shared templates remain planned. No completion dates are inferred."
   },
   "current_work": {
     "observed_at": "2026-10-20T00:24:38Z",
@@ -17777,7 +17815,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T09:19:37.958446Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17795,7 +17833,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T09:07:07.411488Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17813,7 +17851,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T09:17:20.946244Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17831,7 +17869,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T10:11:29Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17849,7 +17887,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:23:01Z",
         "actual_end": "2026-10-19T10:19:22.325007Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17867,7 +17905,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:21:01Z",
         "actual_end": "2026-10-19T10:31:55.174404Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17885,7 +17923,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:34:32Z",
         "actual_end": "2026-10-19T10:43:54.639865Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17903,7 +17941,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:44:16Z",
         "actual_end": "2026-10-19T10:59:02.253218Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17921,7 +17959,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:59:02.253218Z",
         "actual_end": "2026-10-19T11:41:54.653611Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17939,7 +17977,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T11:30:43.457390Z",
         "actual_end": "2026-10-19T11:41:54.653611Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17957,7 +17995,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T11:45:26.532739Z",
         "actual_end": "2026-10-19T12:23:54.311340Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17975,7 +18013,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:29:56.369438Z",
         "actual_end": "2026-10-19T12:33:23.417466Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -17993,7 +18031,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:33:23.417466Z",
         "actual_end": "2026-10-19T12:41:42.782306Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -18011,7 +18049,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:41:42.782306Z",
         "actual_end": "2026-10-19T12:56:43Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -18029,7 +18067,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:56:43Z",
         "actual_end": "2026-10-19T13:46:28.369143Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -18047,7 +18085,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T13:31:39Z",
         "actual_end": "2026-10-19T14:22:00.556267Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -18065,7 +18103,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T14:29:23Z",
         "actual_end": "2026-10-19T15:49:33.508073Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -18083,7 +18121,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T15:46:41Z",
         "actual_end": "2026-10-19T16:55:09.828783Z",
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "none_reported"
       },
       {
@@ -18461,7 +18499,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T16:59:03.803041Z",
         "actual_end": null,
-        "observed_at": "2026-10-20T01:14:21.425844Z",
+        "observed_at": "2026-10-20T01:35:50Z",
         "blocker": "reported_details_withheld"
       },
       {
