@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
   "project": "Numolite",
-  "exported_at": "2026-10-20T03:36:00.500439Z",
-  "observed_at": "2026-10-20T03:36:00.496607Z",
+  "exported_at": "2026-10-20T03:51:25.024240Z",
+  "observed_at": "2026-10-20T03:51:25.020667Z",
   "source_available": true,
   "snapshot_interval_seconds": 900,
   "stale_after_seconds": 1800,
   "progress": {
     "completed": 69,
-    "total": 79,
-    "percent": 87.3,
+    "total": 83,
+    "percent": 83.1,
     "scope": "tracked_development_leaf_tasks"
   },
   "milestones": [
@@ -67,11 +67,11 @@
     "stale_after_seconds": 1800
   },
   "memory": {
-    "sampled_at": "2026-10-20T03:36:00.496632Z",
+    "sampled_at": "2026-10-20T03:51:25.020689Z",
     "host": {
-      "used_gb": 7.168,
+      "used_gb": 7.413,
       "total_gb": 10.451,
-      "used_percent": 68.6
+      "used_percent": 70.9
     },
     "cgroup": null,
     "scope": "dashboard_server_host",
@@ -17617,7 +17617,7 @@
         "planned_end": null,
         "actual_start": null,
         "actual_end": null,
-        "observed_at": "2026-10-19T10:20:34.152519Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "unknown"
       },
       {
@@ -17635,7 +17635,7 @@
         "planned_end": null,
         "actual_start": null,
         "actual_end": null,
-        "observed_at": "2026-10-19T10:20:34.152519Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17653,7 +17653,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:58:38Z",
         "actual_end": null,
-        "observed_at": "2026-10-19T10:12:38.049618Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17671,7 +17671,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:02:03.485147Z",
         "actual_end": "2026-10-19T10:12:38.049618Z",
-        "observed_at": "2026-10-19T10:12:38.049618Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17689,7 +17689,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:11:40Z",
         "actual_end": "2026-10-19T09:12:02.929492Z",
-        "observed_at": "2026-10-19T10:12:38.049618Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17707,7 +17707,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:19:46Z",
         "actual_end": "2026-10-19T10:12:38.049618Z",
-        "observed_at": "2026-10-19T10:12:38.049618Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17815,7 +17815,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T09:19:37.958446Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17833,7 +17833,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T09:07:07.411488Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17851,7 +17851,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T09:17:20.946244Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17869,7 +17869,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:59:32Z",
         "actual_end": "2026-10-19T10:11:29Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17887,7 +17887,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:23:01Z",
         "actual_end": "2026-10-19T10:19:22.325007Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17905,7 +17905,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:21:01Z",
         "actual_end": "2026-10-19T10:31:55.174404Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17923,7 +17923,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:34:32Z",
         "actual_end": "2026-10-19T10:43:54.639865Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17941,7 +17941,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:44:16Z",
         "actual_end": "2026-10-19T10:59:02.253218Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17959,7 +17959,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T10:59:02.253218Z",
         "actual_end": "2026-10-19T11:41:54.653611Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17977,7 +17977,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T11:30:43.457390Z",
         "actual_end": "2026-10-19T11:41:54.653611Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -17995,7 +17995,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T11:45:26.532739Z",
         "actual_end": "2026-10-19T12:23:54.311340Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -18013,7 +18013,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:29:56.369438Z",
         "actual_end": "2026-10-19T12:33:23.417466Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -18031,7 +18031,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:33:23.417466Z",
         "actual_end": "2026-10-19T12:41:42.782306Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -18049,7 +18049,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:41:42.782306Z",
         "actual_end": "2026-10-19T12:56:43Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -18067,7 +18067,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T12:56:43Z",
         "actual_end": "2026-10-19T13:46:28.369143Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -18085,7 +18085,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T13:31:39Z",
         "actual_end": "2026-10-19T14:22:00.556267Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -18103,7 +18103,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T14:29:23Z",
         "actual_end": "2026-10-19T15:49:33.508073Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -18121,7 +18121,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T15:46:41Z",
         "actual_end": "2026-10-19T16:55:09.828783Z",
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "none_reported"
       },
       {
@@ -18499,7 +18499,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T16:59:03.803041Z",
         "actual_end": null,
-        "observed_at": "2026-10-20T01:35:50Z",
+        "observed_at": "2026-10-20T03:49:00Z",
         "blocker": "reported_details_withheld"
       },
       {
@@ -18523,6 +18523,6 @@
     ],
     "planned_leaf_count": 580,
     "mapped_tracked_count": 80,
-    "unmapped_tracked_count": 7
+    "unmapped_tracked_count": 11
   }
 }
