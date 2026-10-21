@@ -18526,7 +18526,7 @@
     "unmapped_tracked_count": 11
   },
   "development_tasks": {
-    "captured_at": "2026-10-21T22:21:03.910880Z",
+    "captured_at": "2026-10-21T22:36:24.334468Z",
     "source": "coordinator_status_files",
     "scope": "reported_task_states_not_runtime_or_product_readiness",
     "rows": [
@@ -19103,7 +19103,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:58:38Z",
         "actual_end": null,
-        "observed_at": "2026-10-21T22:15:36.525635Z",
+        "observed_at": "2026-10-21T22:26:04.597152Z",
         "blocker": "none_reported"
       },
       {
@@ -19121,7 +19121,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:02:03.485147Z",
         "actual_end": "2026-10-19T10:12:38.049618Z",
-        "observed_at": "2026-10-21T22:15:36.525635Z",
+        "observed_at": "2026-10-21T22:26:04.597152Z",
         "blocker": "none_reported"
       },
       {
@@ -19139,7 +19139,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:11:40Z",
         "actual_end": "2026-10-19T09:12:02.929492Z",
-        "observed_at": "2026-10-21T22:15:36.525635Z",
+        "observed_at": "2026-10-21T22:26:04.597152Z",
         "blocker": "none_reported"
       },
       {
@@ -19157,7 +19157,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:19:46Z",
         "actual_end": "2026-10-19T10:12:38.049618Z",
-        "observed_at": "2026-10-21T22:15:36.525635Z",
+        "observed_at": "2026-10-21T22:26:04.597152Z",
         "blocker": "none_reported"
       },
       {
@@ -19985,7 +19985,7 @@
         "planned_end": null,
         "actual_start": "2026-10-20T15:01:26.087871Z",
         "actual_end": null,
-        "observed_at": "2026-10-21T22:15:36.525635Z",
+        "observed_at": "2026-10-21T22:26:04.597152Z",
         "blocker": "none_reported"
       },
       {
@@ -20003,7 +20003,7 @@
         "planned_end": null,
         "actual_start": "2026-10-20T15:15:41.818518Z",
         "actual_end": "2026-10-20T15:35:25.418763Z",
-        "observed_at": "2026-10-21T22:15:36.525635Z",
+        "observed_at": "2026-10-21T22:26:04.597152Z",
         "blocker": "none_reported"
       },
       {
@@ -20021,7 +20021,7 @@
         "planned_end": null,
         "actual_start": "2026-10-20T15:35:25.418763Z",
         "actual_end": "2026-10-20T22:41:13.565436Z",
-        "observed_at": "2026-10-21T22:15:36.525635Z",
+        "observed_at": "2026-10-21T22:26:04.597152Z",
         "blocker": "none_reported"
       }
     ],
