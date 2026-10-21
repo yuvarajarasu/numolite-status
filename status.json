@@ -18526,7 +18526,7 @@
     "unmapped_tracked_count": 11
   },
   "development_tasks": {
-    "captured_at": "2026-10-21T03:20:46.786440Z",
+    "captured_at": "2026-10-21T03:35:47.792866Z",
     "source": "coordinator_status_files",
     "scope": "reported_task_states_not_runtime_or_product_readiness",
     "rows": [
@@ -19103,7 +19103,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:58:38Z",
         "actual_end": null,
-        "observed_at": "2026-10-21T03:19:17.059123Z",
+        "observed_at": "2026-10-21T03:34:35.038668Z",
         "blocker": "none_reported"
       },
       {
@@ -19121,7 +19121,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:02:03.485147Z",
         "actual_end": "2026-10-19T10:12:38.049618Z",
-        "observed_at": "2026-10-21T03:19:17.059123Z",
+        "observed_at": "2026-10-21T03:34:35.038668Z",
         "blocker": "none_reported"
       },
       {
@@ -19139,7 +19139,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:11:40Z",
         "actual_end": "2026-10-19T09:12:02.929492Z",
-        "observed_at": "2026-10-21T03:19:17.059123Z",
+        "observed_at": "2026-10-21T03:34:35.038668Z",
         "blocker": "none_reported"
       },
       {
@@ -19157,7 +19157,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:19:46Z",
         "actual_end": "2026-10-19T10:12:38.049618Z",
-        "observed_at": "2026-10-21T03:19:17.059123Z",
+        "observed_at": "2026-10-21T03:34:35.038668Z",
         "blocker": "none_reported"
       },
       {
@@ -19985,7 +19985,7 @@
         "planned_end": null,
         "actual_start": "2026-10-20T15:01:26.087871Z",
         "actual_end": null,
-        "observed_at": "2026-10-21T03:19:17.059123Z",
+        "observed_at": "2026-10-21T03:34:35.038668Z",
         "blocker": "none_reported"
       },
       {
@@ -20003,7 +20003,7 @@
         "planned_end": null,
         "actual_start": "2026-10-20T15:15:41.818518Z",
         "actual_end": "2026-10-20T15:35:25.418763Z",
-        "observed_at": "2026-10-21T03:19:17.059123Z",
+        "observed_at": "2026-10-21T03:34:35.038668Z",
         "blocker": "none_reported"
       },
       {
@@ -20021,19 +20021,19 @@
         "planned_end": null,
         "actual_start": "2026-10-20T15:35:25.418763Z",
         "actual_end": "2026-10-20T22:41:13.565436Z",
-        "observed_at": "2026-10-21T03:19:17.059123Z",
+        "observed_at": "2026-10-21T03:34:35.038668Z",
         "blocker": "none_reported"
       }
     ],
     "unmapped_task_count": 19
   },
   "development_runtime": {
-    "observed_at": "2026-10-21T03:19:17.059123Z",
+    "observed_at": "2026-10-21T03:34:35.038668Z",
     "source": "development_coordinator",
     "scope": "owned_worker_lifecycle_excludes_coordinator_not_cpu_activity",
-    "running": 1,
+    "running": 2,
     "waiting": 0,
-    "finished": 1,
+    "finished": 0,
     "unknown": 0
   }
 }
