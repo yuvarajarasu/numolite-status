@@ -18526,7 +18526,7 @@
     "unmapped_tracked_count": 11
   },
   "development_tasks": {
-    "captured_at": "2026-10-24T10:37:01.830385Z",
+    "captured_at": "2026-10-24T11:15:22.211307Z",
     "source": "coordinator_status_files",
     "scope": "reported_task_states_not_runtime_or_product_readiness",
     "rows": [
@@ -19103,7 +19103,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T08:58:38Z",
         "actual_end": null,
-        "observed_at": "2026-10-24T10:35:18.078110Z",
+        "observed_at": "2026-10-24T11:13:17.446559Z",
         "blocker": "none_reported"
       },
       {
@@ -19121,7 +19121,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:02:03.485147Z",
         "actual_end": "2026-10-19T10:12:38.049618Z",
-        "observed_at": "2026-10-24T10:35:18.078110Z",
+        "observed_at": "2026-10-24T11:13:17.446559Z",
         "blocker": "none_reported"
       },
       {
@@ -19139,7 +19139,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:11:40Z",
         "actual_end": "2026-10-19T09:12:02.929492Z",
-        "observed_at": "2026-10-24T10:35:18.078110Z",
+        "observed_at": "2026-10-24T11:13:17.446559Z",
         "blocker": "none_reported"
       },
       {
@@ -19157,7 +19157,7 @@
         "planned_end": null,
         "actual_start": "2026-10-19T09:19:46Z",
         "actual_end": "2026-10-19T10:12:38.049618Z",
-        "observed_at": "2026-10-24T10:35:18.078110Z",
+        "observed_at": "2026-10-24T11:13:17.446559Z",
         "blocker": "none_reported"
       },
       {
@@ -19692,13 +19692,13 @@
         "level": "task",
         "role": "Architecture planning",
         "scope": "tracked",
-        "status": "in_progress",
+        "status": "done",
         "planned_start": null,
         "planned_end": null,
         "actual_start": null,
         "actual_end": null,
         "observed_at": "2026-10-19T14:52:45Z",
-        "blocker": "reported_details_withheld"
+        "blocker": "none_reported"
       },
       {
         "id": "item-1004",
@@ -19872,13 +19872,13 @@
         "level": "task",
         "role": "Independent quality review",
         "scope": "tracked",
-        "status": "unknown",
+        "status": "done",
         "planned_start": null,
         "planned_end": null,
-        "actual_start": null,
-        "actual_end": null,
-        "observed_at": null,
-        "blocker": "unknown"
+        "actual_start": "2026-10-19T09:50:47Z",
+        "actual_end": "2026-10-19T09:58:22Z",
+        "observed_at": "2026-10-19T09:59:00.672607Z",
+        "blocker": "none_reported"
       },
       {
         "id": "item-1014",
@@ -19944,13 +19944,13 @@
         "level": "task",
         "role": "Frontend engineering",
         "scope": "tracked",
-        "status": "in_progress",
+        "status": "done",
         "planned_start": null,
         "planned_end": null,
         "actual_start": "2026-10-19T16:59:03.803041Z",
         "actual_end": null,
         "observed_at": "2026-10-20T04:35:00Z",
-        "blocker": "reported_details_withheld"
+        "blocker": "none_reported"
       },
       {
         "id": "item-1018",
@@ -19962,11 +19962,11 @@
         "level": "task",
         "role": "Backend engineering",
         "scope": "tracked",
-        "status": "in_progress",
+        "status": "done",
         "planned_start": null,
         "planned_end": null,
         "actual_start": "2026-10-19T17:15:13Z",
-        "actual_end": null,
+        "actual_end": "2026-10-19T22:58:23.488911Z",
         "observed_at": "2026-10-20T01:38:52.037321Z",
         "blocker": "none_reported"
       },
@@ -19985,7 +19985,7 @@
         "planned_end": null,
         "actual_start": "2026-10-20T15:01:26.087871Z",
         "actual_end": null,
-        "observed_at": "2026-10-24T10:35:18.078110Z",
+        "observed_at": "2026-10-24T11:13:17.446559Z",
         "blocker": "none_reported"
       },
       {
@@ -20003,7 +20003,7 @@
         "planned_end": null,
         "actual_start": "2026-10-20T15:15:41.818518Z",
         "actual_end": "2026-10-20T15:35:25.418763Z",
-        "observed_at": "2026-10-24T10:35:18.078110Z",
+        "observed_at": "2026-10-24T11:13:17.446559Z",
         "blocker": "none_reported"
       },
       {
@@ -20021,19 +20021,19 @@
         "planned_end": null,
         "actual_start": "2026-10-20T15:35:25.418763Z",
         "actual_end": "2026-10-20T22:41:13.565436Z",
-        "observed_at": "2026-10-24T10:35:18.078110Z",
+        "observed_at": "2026-10-24T11:13:17.446559Z",
         "blocker": "none_reported"
       }
     ],
     "unmapped_task_count": 79
   },
   "development_runtime": {
-    "observed_at": "2026-10-23T18:48:31Z",
+    "observed_at": "2026-10-24T11:14:39Z",
     "source": "development_coordinator",
     "scope": "owned_worker_lifecycle_excludes_coordinator_not_cpu_activity",
     "running": 1,
     "waiting": 0,
-    "finished": 80,
-    "unknown": 1
+    "finished": 4,
+    "unknown": 0
   }
 }
